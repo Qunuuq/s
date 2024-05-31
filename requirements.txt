@@ -1,4 +1,3 @@
 websocket-client
 names
-time
 gzip
